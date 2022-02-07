@@ -50,7 +50,7 @@ a:visited {
 }
 
 .logo {
-  height: 5.2rem;
+  max-height: 150px;
   align-self: center;
   margin-bottom: 4rem;
 }
